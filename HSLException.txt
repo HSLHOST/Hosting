@@ -1,1 +1,2 @@
+! Title: HSL Adblock Exceptions
 @@https://hsl.fireflycloud.net
