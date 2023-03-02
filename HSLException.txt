@@ -1,7 +1,1 @@
-[Adblock Plus 2.0]
-! Title: HSL Exceptions List
-! Expires: 1 days (update frequency)
-! License: https://unlicense.org
-
-
 @@https://hsl.fireflycloud.net
