@@ -1,2 +1,6 @@
-! Title: HSL Adblock Exceptions
+[Adblock Plus 3.13]
+! Title: HSL Exceptions List
+! Version: 1.0
+! Expires: 7 days
+
 @@https://hsl.fireflycloud.net
