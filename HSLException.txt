@@ -4,3 +4,4 @@
 ! Expires: 7 days
 
 @@https://hsl.fireflycloud.net
+@@https://talksport.com/
